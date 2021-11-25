@@ -13,7 +13,7 @@ h1{ margin: 1%;}
  text-align: center; padding: 0.5%;
  margin: 0.1% 2% 0.5% 2%; font-size: 90%;}
   
-  #main{background-image: url(../images/mira.jpg);
+  #main{background-image: url(mira.jpg);
   background-size: cover;
  width: 100%;height: 600px; }
 
@@ -70,7 +70,7 @@ a{color: black; text-decoration: none;}
 
                      /* our story styling */
 
- .os1{background-image: url(../images/ourstory.jpg);
+ .os1{background-image: url(ourstory.jpg);
     background-size: cover;
  width: 100%;height:80vh; }
  .os1content{display: inline-block; color: #5f0f40;
@@ -81,7 +81,7 @@ border-radius: 10px; border: 1px;}
 
                     /* Reservation styling */      
 
-.r1{background-image: url(../images/reservation.jpg);
+.r1{background-image: url(reservation.jpg);
     background-size: cover;width: 100%;height:80vh;
     background-position: center;}
 
@@ -101,7 +101,7 @@ font-size: 110%; margin-top: 0; }
 
 .locationr{float: right; 
  height:50vh;width: 50%; margin-top: 0; background-position: center;
-  background-image:url(../images/Capture.jpg);}
+  background-image:url(Capture.jpg);}
 .r3{margin-left: 10%; text-align: center;
 margin-right: 10%; height: 60vh; background-color:#b78d52;
 color:#5f0f40 ; font-size: 110%;}
@@ -387,7 +387,7 @@ button{display:inline-block; background-color: transparent; border: none;
  margin: 0.5% 1% 0.5% 9%; font-size: 105%;}
                   
   
- #main{background-image: url(../images/mira.jpg);
+ #main{background-image: url(mira.jpg);
   background-size: cover;
  width: 100%;height: 700px; }
 
@@ -456,7 +456,7 @@ margin-bottom: 3%; }
 
                  /* our story styling */
 
-.os1{background-image: url(../images/ourstory.jpg);
+.os1{background-image: url(ourstory.jpg);
     background-size: cover;
  width: 100%;height:80vh; }
  .os1content{display: inline-block; color: #5f0f40;
@@ -469,7 +469,7 @@ border-radius: 10px; border: 1px;}
 
                   /* Reservation styling */
 
-.r1{background-image: url(../images/reservation.jpg);
+.r1{background-image: url(reservation.jpg);
     background-size: cover;width: 100%;height:100vh;}
 
  .r1content{display: inline-block; color: #5f0f40;
@@ -488,7 +488,7 @@ font-size: 160%; margin-top: 0; }
 
 .locationr{float: right; 
  height:50vh;width: 50%; margin-top: 0;
-  background-image:url(../images/Capture.jpg);}
+  background-image:url(Capture.jpg);}
 .r3{margin-left: 50%; text-align: center;
 margin-right: 25%; height: 60vh; background-color:#b78d52;
 color:#5f0f40 ; font-size: 160%;}
