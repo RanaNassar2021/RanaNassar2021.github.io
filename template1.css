@@ -438,14 +438,14 @@ margin-bottom: 3%; }
  margin-right: 2%; height: 45%; margin-bottom: 2%;
  width: 48%;} 
 
-.sil{ color:#b78d52; font-size:140%; margin-left: 18%;
+.sil{ color:#b78d52; font-size:140%; margin-left: 10%;
     text-decoration: underline;  }
 
-.sir{ color:#b78d52; font-size:140%; margin-left: 30%;
+.sir{ color:#b78d52; font-size:140%; margin-left: 20%;
     text-decoration: underline; }
-.idl{ color:white; font-size:140%; margin-left: 30%;
+.idl{ color:white; font-size:140%; margin-left: 15%;
      }
- .idr{ color:white; font-size:140%; margin-left: 30%;
+ .idr{ color:white; font-size:140%; margin-left: 20%;
       }  
   a{color: black; text-decoration: none;} 
   .section1{height: 3000px;} 
