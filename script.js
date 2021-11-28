@@ -1,5 +1,5 @@
 
-/*==================== SERVICES MODAL ====================*/
+
 const modalViews = document.querySelectorAll(".services_modal"),
   modalBtns = document.querySelectorAll(".services_button"),
   modalCloses = document.querySelectorAll(".services_modal-close");
@@ -22,7 +22,7 @@ modalCloses.forEach((modalClose) => {
   });
 });
 
-/*==================== plus and minus buttons ====================*/
+
 
 function wcqib_refresh_quantity_increments() {
     jQuery("div.quantity:not(.buttons_added), td.quantity:not(.buttons_added)").each(function(a, b) {
