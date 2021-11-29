@@ -32,8 +32,8 @@ footer p{display: inline-block; margin:0.1% 25% 0.1% 2%;
 
  
 .b{background-color:transparent;
-  border-radius:5px; width: 40%; height: 20%;font-size: 120%;
-    color: #ffffff; border: 2px solid white; margin:1% 30%  ; }
+  border-radius:5px; width: 60%; height: 20%;font-size: 120%;
+    color: #ffffff; border: 2px solid white; margin:1% 15%  ; }
 
 .b:hover{background-color:#ffffff;
  color: #595959;} 
