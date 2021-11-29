@@ -1,11 +1,11 @@
 
 
-const modalViews = document.querySelectorAll(".services_modal"),
+const modalViews1 = document.querySelectorAll(".services_modal"),
   modalBtns = document.querySelectorAll(".services_button"),
   modalCloses = document.querySelectorAll(".services_modal-close");
 
 let modal = function (modalClick) {
-  modalViews[modalClick].classList.add("active-modal");
+  modalViews1[modalClick].classList.add("active-modal");
 };
 
 modalBtns.forEach((modalBtn, i) => {
@@ -16,7 +16,7 @@ modalBtns.forEach((modalBtn, i) => {
 
 modalCloses.forEach((modalClose) => {
   modalClose.addEventListener("click", () => {
-    modalViews.forEach((modalView) => {
+    modalViews1.forEach((modalView) => {
       modalView.classList.remove("active-modal");
     });
   });
