@@ -28,7 +28,7 @@ function wcqib_refresh_quantity_increments() {
     jQuery("div.quantity:not(.buttons_added), td.quantity:not(.buttons_added)").each(function(a, b) {
         var c = jQuery(b);
         c.addClass("buttons_added"), c.children().first().before('<input type="button" value="-" class="minus" />'), c.children().last().after('<input type="button" value="+" class="plus" />')
-    })
+    });
 }
 String.prototype.getDecimals || (String.prototype.getDecimals = function() {
     var a = this,
