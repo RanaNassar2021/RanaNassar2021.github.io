@@ -114,7 +114,7 @@ margin: 1%;}
 #ln{background-color:transparent;height: 5vh;}
 #email{background-color:transparent;height: 5vh;}
 #phone{background-color:transparent;height: 5vh;}
-#message{height: 33vh; background-color: transparent; width:80%;}
+#message{height: 33vh; background-color: transparent; }
 #submit{ background-color:#5f0f40 ; color: white; width: 80%;
 margin-top: 10%; height: 5vh;font-size: 80%; }  
 
