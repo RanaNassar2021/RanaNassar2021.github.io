@@ -11,7 +11,7 @@ h1{ margin: 1%;}
 
  button{display:inline-block; background-color: transparent; border: none;
  text-align: center; padding: 0.5%;
- margin: 0.1% 3% 0.5% 3%; font-size: 90%;}
+ margin: 0.1% 5% 0.5% 5%; font-size: 90%;}
   
   #main{background-image: url(mira.jpg);
   background-size: cover;
