@@ -21,7 +21,7 @@ h1{ margin: 1%;}
 #title1{text-align: center;color: white; font-size: 400%;
     margin-top: 33%; margin-bottom: 0%;}
  #title2{ font-size: 400%; margin-bottom: 4%;
- color: #ffffff; text-align: center; margin-top: 0; }
+ color:white; text-align: center; margin-top: 0; }
     .bottom{height: 40%; text-align: center;width: 100%;
         margin: 0;} 
  footer{ bottom: 0;
@@ -33,7 +33,7 @@ footer p{display: inline-block; margin:0.1% 25% 0.1% 2%;
  
 .b{background-color:transparent;
   border-radius:5px; width: 60%; height: 20%;font-size: 120%;
-    color: white; border: 2px solid white; margin:1% 15%  ; }
+    color: #ffffff; border: 2px solid white; margin:1% 15%  ; }
 
 .b:hover{background-color:#ffffff;
  color: #595959;} 
