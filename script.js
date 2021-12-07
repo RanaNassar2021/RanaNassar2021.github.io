@@ -8,15 +8,15 @@ let modal = function (modalClick) {
   modalViews[modalClick].classList.add("active-modal");
 };
 
-modalBtns.forEach((modalBtn, i) => {
+  modalBtns.forEach((modalBtn, i) => {
   modalBtn.addEventListener("click", () => {
     modal(i);
   });
 });
 
-modalCloses.forEach((modalClose) => {
+  modalCloses.forEach((modalClose) => {
   modalClose.addEventListener("click", () => {
-    modalViews.forEach((modalView) => {
+      modalViews.forEach((modalView) => {
       modalView.classList.remove("active-modal");
     });
   });
