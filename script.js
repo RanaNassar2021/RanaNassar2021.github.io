@@ -21,7 +21,7 @@ modalCloses.forEach((modalClose) => {
     });
   });
 });
-
+}
 
 
 function wcqib_refresh_quantity_increments() {
