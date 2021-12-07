@@ -1,6 +1,6 @@
               /*  styling home page for mobile */
 
-@media (min-width: 320px) {
+@media only screen and (max-width: 600px) and (min-width: 320px) {
 
   body{padding: 0;}
   #icons{background-color:#b78d52; padding: 0.5%;}
