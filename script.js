@@ -1,5 +1,3 @@
-
-
 const modalViews = document.querySelectorAll(".services_modal"),
   modalBtns = document.querySelectorAll(".services_button"),
   modalCloses = document.querySelectorAll(".services_modal-close");
